@@ -1,4 +1,4 @@
-# What the FUCK is this???
+# God FUCKING damn it, What the FUCK is this???
 
 A simple Balatro reskin mod that adds an option to customize the face cards in the "Customize Deck" menu.\
 This mod requires [Steamodded](https://github.com/Steamodded/smods), a popular Balatro modding framework, to work.
