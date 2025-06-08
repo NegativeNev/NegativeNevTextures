@@ -6,7 +6,7 @@ This mod requires [Steamodded](https://github.com/Steamodded/smods), a popular B
 # How the FUCK do I use it???
 
 Provided that you successfully installed Steamodded, paste the following into the file explorer's address bar:\
-`%AppData%/Balatro/Mods`  
+`%AppData%/Balatro/Mods`\
 Unzip the archive inside the Mods folder, and you're good to go!\
 \
 (Warning: After extracting the zip file, the Mods folder should contain a folder named "nn_textures" that contains all the content!)
